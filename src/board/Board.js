@@ -3,13 +3,13 @@ import {Grid} from '@mui/material'
 import BoardCard from './BoardCard';
 
 
-function Board() {
-  const [questions, setQuestions] = useState([{text: 'Apples', count: 64, isFlipped: false}, {text: 'Bananas', count: 8, isFlipped: true}])
+function Board(props) {
+  const [questions, setQuestions] = useState(props.questions)
 
   return (
-    <Grid container spacing={2} sx={{width: 1000, height:400}}>
+    <Grid container direction="column" spacing={2} sx={{width: 1000, height:400}}>
         {questions.map((question, index) => (
-            <Grid item xs={5} key={index}>
+            <Grid item xs={2} key={index}>
                 <BoardCard question={question} index={index+1} />
             </Grid>
         ))}   
