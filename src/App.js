@@ -16,8 +16,6 @@ function App() {
     initialState[index] = question
   })
 
-
-
   return (
     <CenteredComponent>
       <Board questions={initialState} />
