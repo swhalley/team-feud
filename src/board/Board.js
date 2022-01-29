@@ -3,20 +3,20 @@ import {Grid} from '@mui/material'
 import BoardCard from './BoardCard';
 
 function Board(props) {
-  const [questions, setQuestions] = useState(props.questions)
+  const [answers, setAnswers] = useState(props.answers)
 
-  const flipCard = (index, question) =>{
-    const newState = [...questions]
-    newState[index].isFlipped = !question.isFlipped
+  const flipCard = (index, card) =>{
+    const newState = [...answers]
+    newState[index].isFlipped = !card.isFlipped
 
-    setQuestions(newState)
+    setAnswers(newState)
   }
 
   return (
     <Grid container direction="column" spacing={2} sx={{width: 1000, height:400}}>
-        {questions.map((question, index) => (
+        {answers.map((answer, index) => (
             <Grid item xs={2} key={index}>
-                <BoardCard question={question} index={index+1} onClick={flipCard} />
+                <BoardCard answer={answer} index={index+1} onClick={flipCard} />
             </Grid>
         ))}   
     </Grid>

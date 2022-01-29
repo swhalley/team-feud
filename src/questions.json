@@ -1,0 +1,56 @@
+{
+    "/pairs": {
+        "question": "What are things that come in pairs?",
+        "answers": [
+            {
+                "text": "Shoes",
+                "count": 24
+            },
+            {
+                "text": "Socks",
+                "count": 22
+            },
+            {
+                "text": "Feet",
+                "count": 20
+            },
+            {
+                "text": "Hands",
+                "count": 17
+            },
+            {
+                "text": "Eyes",
+                "count": 13
+            }
+        ]
+    },
+    "/food": {
+        "question": "According to food producers, what are the most popular fruit?",
+        "answers": [
+            {
+                "text": "Tomatoes",
+                "count": 30
+            },
+            {
+                "text": "Bananas",
+                "count": 19
+            },
+            {
+                "text": "Watermelons",
+                "count": 17
+            },
+            {
+                "text": "Apples",
+                "count": 14
+            },
+            {
+                "text": "Oranges",
+                "count": 12
+            },
+            {
+                "text": "Mangoes",
+                "count": 6
+            }
+        ]
+    }
+}
