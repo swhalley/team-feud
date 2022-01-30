@@ -52,5 +52,55 @@
                 "count": 6
             }
         ]
+    },
+    "/pairs2": {
+        "question": "What are things that come in pairs?",
+        "answers": [
+            {
+                "text": "Shoes",
+                "count": 24
+            },
+            {
+                "text": "Socks",
+                "count": 22
+            },
+            {
+                "text": "Feet",
+                "count": 20
+            },
+            {
+                "text": "Hands",
+                "count": 17
+            },
+            {
+                "text": "Eyes",
+                "count": 13
+            }
+        ]
+    },
+    "/pairs3": {
+        "question": "What are things that come in pairs?",
+        "answers": [
+            {
+                "text": "Shoes",
+                "count": 24
+            },
+            {
+                "text": "Socks",
+                "count": 22
+            },
+            {
+                "text": "Feet",
+                "count": 20
+            },
+            {
+                "text": "Hands",
+                "count": 17
+            },
+            {
+                "text": "Eyes",
+                "count": 13
+            }
+        ]
     }
 }
