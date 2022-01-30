@@ -12,7 +12,8 @@ const CenteredComponent = styled('div')({
 })
 
 function App() {
-  const topic = questions[window.location.pathname]
+  const params = new URLSearchParams(window.location.search)
+  const topic = questions[params.get('topic')]
 
   if(!topic){
     return (
