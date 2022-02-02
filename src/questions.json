@@ -53,52 +53,110 @@
             }
         ]
     },
-    "pairs2": {
-        "question": "What are things that come in pairs?",
+    "animal": {
+        "question": "Name An Animal That People Are Very Scared Of?",
         "answers": [
             {
-                "text": "Shoes",
-                "count": 24
+                "text": "Snake",
+                "count": 35
             },
             {
-                "text": "Socks",
-                "count": 22
+                "text": "Lion",
+                "count": 25
             },
             {
-                "text": "Feet",
-                "count": 20
+                "text": "Scorpion",
+                "count": 25
             },
             {
-                "text": "Hands",
-                "count": 17
+                "text": "Shark",
+                "count": 10
             },
             {
-                "text": "Eyes",
-                "count": 13
+                "text": "Alligator",
+                "count": 5
             }
         ]
     },
-    "pairs3": {
-        "question": "What are things that come in pairs?",
+    "updown": {
+        "question": "Name Something That Goes Up and Down?",
         "answers": [
             {
-                "text": "Shoes",
-                "count": 24
-            },
-            {
-                "text": "Socks",
-                "count": 22
-            },
-            {
-                "text": "Feet",
-                "count": 20
-            },
-            {
-                "text": "Hands",
+                "text": "Airplanes",
                 "count": 17
             },
             {
-                "text": "Eyes",
+                "text": "Roller coaster",
+                "count": 13
+            },
+            {
+                "text": "Elevator",
+                "count": 12
+            },
+            {
+                "text": "YoYo",
+                "count": 9
+            },
+            {
+                "text": "Seesaw",
+                "count": 8
+            },
+            {
+                "text": "Thermometers",
+                "count": 6
+            },
+            {
+                "text": "Zippers",
+                "count": 5
+            }
+        ]
+    },
+    "sports": {
+        "question": "Name a City That Has A Lot of Sporting Teams?",
+        "answers": [
+            {
+                "text": "New York",
+                "count": 31
+            },
+            {
+                "text": "Los Angeles",
+                "count": 30
+            },
+            {
+                "text": "Dallas",
+                "count": 18
+            },
+            {
+                "text": "Houston",
+                "count": 13
+            },
+            {
+                "text": "Philadelphia",
+                "count": 3
+            },
+            {
+                "text": "Chicago",
+                "count": 2
+            }
+        ]
+    }, 
+    "work": {
+        "question": "What could be the reason for going late to work?",
+        "answers": [
+            {
+                "text": "Got up Late",
+                "count": 41
+            },
+            {
+                "text": "Traffic",
+                "count": 30
+            },
+            {
+                "text": "Bus Delay",
+                "count": 14
+            },
+            {
+                "text": "Weather",
                 "count": 13
             }
         ]
