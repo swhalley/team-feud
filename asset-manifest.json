@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/team-feud/static/js/main.8ef78482.js",
+    "main.js": "/team-feud/static/js/main.028b6e03.js",
     "index.html": "/team-feud/index.html",
-    "main.8ef78482.js.map": "/team-feud/static/js/main.8ef78482.js.map"
+    "main.028b6e03.js.map": "/team-feud/static/js/main.028b6e03.js.map"
   },
   "entrypoints": [
-    "static/js/main.8ef78482.js"
+    "static/js/main.028b6e03.js"
   ]
 }
