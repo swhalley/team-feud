@@ -1,7 +1,7 @@
 import { Board } from './board'
 import { styled } from '@mui/system'
-import { Typography } from '@mui/material'
 import questions from './questions.json'
+import { Typography } from '@mui/material'
 
 const CenteredComponent = styled('div')({
     display: 'flex',
@@ -37,7 +37,12 @@ function App() {
         {topic.question}
       </Typography> */}
       <CenteredComponent>
-        <Board answers={initialState} />
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+          <Typography variant="h3" gutterBottom component="div">
+            { topic.question }
+          </Typography>
+          <Board answers={initialState} />
+        </div>
       </CenteredComponent>
     </div>
   );

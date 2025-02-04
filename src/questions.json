@@ -160,5 +160,106 @@
                 "count": 13
             }
         ]
+    },
+    "avengers": {
+        "question": "Name Marvel's Avengers",
+        "answers": [{
+            "text": "Captain America",
+            "count": 23
+        },
+        {
+            "text": "Iron Man",
+            "count": 22
+        },
+        {
+            "text": "Black Panther",
+            "count": 20
+        },
+        {
+            "text": "The Hulk",
+            "count": 15
+        },
+        {
+            "text": "Thor",
+            "count": 14
+        },
+        {
+            "text": "Black Widow",
+            "count": 10
+        },
+        {
+            "text": "Spiderman",
+            "count": 3
+        },
+        {
+            "text": "Hawkeye",
+            "count": 2
+        }]
+    },
+    "chips": {
+        "question": "Name a Kind of Chip",
+        "answers": [{
+            "text": "Potato/Corn",
+            "count": 74
+        },
+        {
+            "text": "Chocolate",
+            "count": 14
+        },
+        {
+            "text": "Poker",
+            "count": 7
+        },
+        {
+            "text": "Micro/Computer",
+            "count": 3
+        }]
+    },
+    "takeout": {
+        "question": "Name Something People Take Out",
+        "answers": [{
+            "text": "Food/Chinese",
+            "count": 61
+        },
+        {
+            "text": "The Trash",
+            "count": 31
+        },
+        {
+            "text": "Money/Loan",
+            "count": 4
+        },
+        {
+            "text": "The Dog",
+            "count": 2
+        }]
+    },
+    "jjob": {
+        "question": "Name an occupation that begins with the letter 'J'",
+        "answers": [{
+                "text": "Janitor",
+                "count": 62
+            },
+            {
+                "text": "Judge/justice",
+                "count": 19
+            },
+            {
+                "text": "Jeweler",
+                "count": 5
+            },
+            {
+                "text": "Jockey",
+                "count": 4
+            },
+            {
+                "text": "Journalist",
+                "count": 4
+            },
+            {
+                "text": "Juggler",
+                "count": 3
+            }
+        ]
     }
 }
