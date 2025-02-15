@@ -139,7 +139,7 @@
                 "count": 2
             }
         ]
-    }, 
+    },
     "work": {
         "question": "What could be the reason for going late to work?",
         "answers": [
@@ -163,80 +163,87 @@
     },
     "avengers": {
         "question": "Name Marvel's Avengers",
-        "answers": [{
-            "text": "Captain America",
-            "count": 23
-        },
-        {
-            "text": "Iron Man",
-            "count": 22
-        },
-        {
-            "text": "Black Panther",
-            "count": 20
-        },
-        {
-            "text": "The Hulk",
-            "count": 15
-        },
-        {
-            "text": "Thor",
-            "count": 14
-        },
-        {
-            "text": "Black Widow",
-            "count": 10
-        },
-        {
-            "text": "Spiderman",
-            "count": 3
-        },
-        {
-            "text": "Hawkeye",
-            "count": 2
-        }]
+        "answers": [
+            {
+                "text": "Captain America",
+                "count": 23
+            },
+            {
+                "text": "Iron Man",
+                "count": 22
+            },
+            {
+                "text": "Black Panther",
+                "count": 20
+            },
+            {
+                "text": "The Hulk",
+                "count": 15
+            },
+            {
+                "text": "Thor",
+                "count": 14
+            },
+            {
+                "text": "Black Widow",
+                "count": 10
+            },
+            {
+                "text": "Spiderman",
+                "count": 3
+            },
+            {
+                "text": "Hawkeye",
+                "count": 2
+            }
+        ]
     },
     "chips": {
         "question": "Name a Kind of Chip",
-        "answers": [{
-            "text": "Potato/Corn",
-            "count": 74
-        },
-        {
-            "text": "Chocolate",
-            "count": 14
-        },
-        {
-            "text": "Poker",
-            "count": 7
-        },
-        {
-            "text": "Micro/Computer",
-            "count": 3
-        }]
+        "answers": [
+            {
+                "text": "Potato/Corn",
+                "count": 74
+            },
+            {
+                "text": "Chocolate",
+                "count": 14
+            },
+            {
+                "text": "Poker",
+                "count": 7
+            },
+            {
+                "text": "Micro/Computer",
+                "count": 3
+            }
+        ]
     },
     "takeout": {
         "question": "Name Something People Take Out",
-        "answers": [{
-            "text": "Food/Chinese",
-            "count": 61
-        },
-        {
-            "text": "The Trash",
-            "count": 31
-        },
-        {
-            "text": "Money/Loan",
-            "count": 4
-        },
-        {
-            "text": "The Dog",
-            "count": 2
-        }]
+        "answers": [
+            {
+                "text": "Food/Chinese",
+                "count": 61
+            },
+            {
+                "text": "The Trash",
+                "count": 31
+            },
+            {
+                "text": "Money/Loan",
+                "count": 4
+            },
+            {
+                "text": "The Dog",
+                "count": 2
+            }
+        ]
     },
     "jjob": {
         "question": "Name an occupation that begins with the letter 'J'",
-        "answers": [{
+        "answers": [
+            {
                 "text": "Janitor",
                 "count": 62
             },
@@ -259,6 +266,152 @@
             {
                 "text": "Juggler",
                 "count": 3
+            }
+        ]
+    },
+    "annoy": {
+        "question": "Name something a wife turns on just to annoy her husband",
+        "answers": [
+            {
+                "text": "TV",
+                "count": 50
+            },
+            {
+                "text": "Radio",
+                "count": 23
+            },
+            {
+                "text": "Vacuum",
+                "count": 13
+            },
+            {
+                "text": "The lights",
+                "count": 4
+            }
+        ]
+    },
+    "hold": {
+        "question": "Name something you hold very carefully",
+        "answers": [
+            {
+                "text": "Baby",
+                "count": 45
+            },
+            {
+                "text": "Glass",
+                "count": 23
+            },
+            {
+                "text": "Egg",
+                "count": 15
+            },
+            {
+                "text": "Pet",
+                "count": 7
+            },
+            {
+                "text": "Knife",
+                "count": 5
+            }
+        ]
+    },
+    "feelings": {
+        "question": "Name a feeling that people hate",
+        "answers": [
+            {
+                "text": "Anger",
+                "count": 35
+            },
+            {
+                "text": "Sadness",
+                "count": 25
+            },
+            {
+                "text": "Fear",
+                "count": 20
+            },
+            {
+                "text": "Disgust",
+                "count": 10
+            },
+            {
+                "text": "Jealousy",
+                "count": 5
+            }
+        ]
+    },
+    "videoGame": {
+        "question": "Name a popular video game",
+        "answers": [
+            {
+                "text": "Fortnite",
+                "count": 30
+            },
+            {
+                "text": "Minecraft",
+                "count": 25
+            },
+            {
+                "text": "Call of Duty",
+                "count": 20
+            },
+            {
+                "text": "Among Us",
+                "count": 15
+            },
+            {
+                "text": "Roblox",
+                "count": 10
+            }
+        ]
+    },
+    "pond": {
+        "question": "Name something you might find in a pond",
+        "answers": [
+            {
+                "text": "Fish",
+                "count": 30
+            },
+            {
+                "text": "Duck",
+                "count": 25
+            },
+            {
+                "text": "Frog",
+                "count": 20
+            },
+            {
+                "text": "Lily Pad",
+                "count": 15
+            },
+            {
+                "text": "Turtle",
+                "count": 10
+            }
+        ]
+    },
+    "iceCream": {
+        "question": "Name a popular ice cream flavor",
+        "answers": [
+            {
+                "text": "Vanilla",
+                "count": 30
+            },
+            {
+                "text": "Chocolate",
+                "count": 25
+            },
+            {
+                "text": "Strawberry",
+                "count": 20
+            },
+            {
+                "text": "Mint Chocolate Chip",
+                "count": 15
+            },
+            {
+                "text": "Cookies and Cream",
+                "count": 10
             }
         ]
     }
