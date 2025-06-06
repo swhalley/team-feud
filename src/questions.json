@@ -414,5 +414,35 @@
                 "count": 10
             }
         ]
+    },
+    "alison1": {
+        "text": "What is Alison most likely to bring to a silent book club meeting?",
+        "answers": [
+            { "text": "A book", "count": 45 },
+            { "text": "Tarot cards", "count": 25 },
+            { "text": "Freca soda water", "count": 15 },
+            { "text": "Oreos", "count": 10 },
+            { "text": "A purse", "count": 5 }
+        ]
+    },
+    "alison2": {
+        "text": "What might Alison do on Halloween?",
+        "answers": [
+            { "text": "Dress up in costume", "count": 40 },
+            { "text": "Decorate her cubicle", "count": 30 },
+            { "text": "Read a spooky book", "count": 15 },
+            { "text": "Hand out candy", "count": 10 },
+            { "text": "Watch horror/scary movie", "count": 5 }
+        ]
+    },
+    "alison3":{
+        "text": "What is Alison’s favorite way to relax?",
+        "answers": [
+            { "text": "Reading a book", "count": 50 },
+            { "text": "Writing poetry", "count": 30 },
+            { "text": "Retreat to Star Island", "count": 10 },
+            { "text": "Doing a tarot reading", "count": 6 },
+            { "text": "Listening to The Cure", "count": 4 }
+        ]
     }
 }
