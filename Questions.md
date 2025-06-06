@@ -203,3 +203,42 @@
 | 2. Chocolate - 25 |   |
 | 3. Strawberry - 20 |   |
 | 4. Mint Chocolate Chip - 15 |   |
+
+---
+
+# Topic: alison1
+
+## Question: What is Alison most likely to bring to a silent book club meeting?
+
+|   |   |
+|---|---|
+| 1. A book - 45 | 5. A purse - 5 |
+| 2. Tarot cards - 25 |   |
+| 3. Freca soda water - 15 |   |
+| 4. Oreos - 10 |   |
+
+---
+
+# Topic: alison2
+
+## Question: What might Alison do on Halloween?
+
+|   |   |
+|---|---|
+| 1. Dress up in costume - 40 | 5. Watch horror/scary movie - 5 |
+| 2. Decorate her cubicle - 30 |   |
+| 3. Read a spooky book - 15 |   |
+| 4. Hand out candy - 10 |   |
+
+---
+
+# Topic: alison3
+
+## Question: What is Alison’s favorite way to relax?
+
+|   |   |
+|---|---|
+| 1. Reading a book - 50 | 5. Listening to The Cure - 4 |
+| 2. Writing poetry - 30 |   |
+| 3. Retreat to Star Island - 10 |   |
+| 4. Doing a tarot reading - 6 |   |
